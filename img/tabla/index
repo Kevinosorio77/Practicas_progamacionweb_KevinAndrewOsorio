@@ -1,0 +1,28 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-widht, initial=scale=1.0">
+        <title>Tabla</title>
+        </head>
+        <body>
+            <h2>HORARIO</h2>
+            <table>
+                <tr>
+                    <th>nombre</th>
+                    <th>Edad</th>
+                    <th>Carrera</th>
+                </tr>
+
+                <tr>
+                    <th>Kevin</th>
+                    <th>20</th>
+                    <th>isc</th>
+                </tr>
+                <tr>
+                    <th>goku</th>
+                    <th>23</th>
+                    <th>quien sabe</th>
+                </tr>
+            </table>
+            </body>
+            </html>
